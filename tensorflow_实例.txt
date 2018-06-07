@@ -1,0 +1,11 @@
+Tensorflow实例
+
+网络资源
+
+1) yongyehuang/Tensorflow-Tutorial https://github.com/yongyehuang/Tensorflow-Tutorial 
+2) lucko515/tesla-stocks-prediction https://github.com/lucko515/tesla-stocks-prediction 
+3) Stock Price Prediction using LSTM https://github.com/tencia/stocks_rnn 
+4) 利用LSTM预测股票每日最高价 http://blog.csdn.net/mylove0414/article/details/55805974 
+对应github https://github.com/LouisScorpio/datamining/tree/master/tensorflow-program/rnn/stock_predict 
+5) TensorFlow核心使用技巧 http://www.52cs.org/?p=1157 
+高级应用实例：TFRecords、QueueRunner、Checkpoint、TensorBoard、Inference、GPU支持、分布式训练和多层神经网络模型等特性 https://github.com/tobegit3hub/tensorflow_template_application
